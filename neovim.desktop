@@ -2,7 +2,7 @@
 Version=1.0
 Type=Application
 Name=Neovim
-Icon=neovim
+Icon=nvim
 Exec=nvim-wrapper %F
 NoDisplay=false
 Categories=X-GNOME-Other;
